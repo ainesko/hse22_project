@@ -6,7 +6,7 @@
 
 * Таблица
 
-<img width="900" alt="image" src="https://user-images.githubusercontent.com/93263861/172711623-d9d014b8-bb4b-416b-8684-93710e5aadec.png">
+<img width="1323" alt="image" src="https://user-images.githubusercontent.com/93263861/172719210-d8edbaa0-f723-4549-bd7d-043309726fd6.png">
 
 
 * Координаты аннотированных генов 
